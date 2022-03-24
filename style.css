@@ -2,12 +2,11 @@
   color: darkblue;
   font-size: 15px;
   transition: all 0.5s;
+  transition-delay: 1s;
 }
 
  .heading:hover{
-
      color: red;
      font-size: 25px;
-
  }
 
