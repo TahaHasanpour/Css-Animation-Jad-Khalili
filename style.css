@@ -1,10 +1,41 @@
-.heading {
-  color: darkblue;
-  font-size: 15px;
-  transition: all 1s ease-in 1s;
+.title {
+  transition: all 1s ease-out;
+  max-width: 100%;
+  padding: 10px;
+  text-align: center;
+  background-color: aquamarine;
 }
 
-.heading:hover {
-  color: green;
-  font-size: 10px;
+.title:hover {
+  color: #1f93ff;
+}
+
+.menu {
+  display: flex;
+  background: aquamarine;
+  max-width: 100%;
+  padding: 3px;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+
+/* .menu a {
+  text-decoration: none;
+  color: black;
+   transition: all 1s ease-out;
+} */
+
+/* .menu a:hover {
+  font-size: 2.5em;
+  color: #1f93ff;
+} */
+.menu-item {
+  transition: all 1s ease-out;
+  color: #000;
+}
+
+
+.menu-item:hover {
+  font-size: 2.5em;
+  color: #1f93ff;
 }
