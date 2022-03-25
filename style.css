@@ -2,6 +2,7 @@
   color: darkblue;
   font-size: 15px;
   transition: all 0.5s;
+
   /*challange*/
   /* transition: color green 0.5s,font-size 20px , letter-spacing 10px; */
   
@@ -17,4 +18,12 @@
      letter-spacing: 10px;
      /* transition: color green 0.5s,font-size 20px , letter-spacing 10px; */
  }
+
+
+}
+
+.heading:hover {
+  color: aqua;
+  font-size: 20px;
+}
 

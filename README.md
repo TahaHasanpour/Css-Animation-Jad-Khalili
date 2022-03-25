@@ -1,5 +1,6 @@
 # Css-Anitmation-Jad-Khalili
 
+
 .heading {
   color: darkblue;
   font-size: 15px;
@@ -11,3 +12,4 @@
      color: brown;
      font-size: 25px;
  }
+
