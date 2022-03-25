@@ -3,11 +3,14 @@
   height: 50px;
   background: red;
   border: 1px solid black;
-  animation-name:first-animation;
+  animation-name:first-animation ;
   animation-duration: 1s;
   animation-delay: 1s;
   animation-iteration-count: 4;
 
+  animation-timing-function: ease-in;
+  animation-direction: alternate;
+  animation-fill-mode: both;
 }
 
 @keyframes first-animation{
