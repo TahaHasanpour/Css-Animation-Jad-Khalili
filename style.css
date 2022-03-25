@@ -13,3 +13,19 @@
 }
 
 
+
+.title:hover {
+  color: #1f93ff;
+}
+img {
+  width: 100%;
+.heading {
+  color: darkblue;
+  font-size: 15px;
+  transition: all 0.5s;
+}
+
+.heading:hover {
+  color: aqua;
+  font-size: 20px;
+}
